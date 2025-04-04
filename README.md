@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">71 Digital Sign is a robust Employee Management System designed to help a well-renowned company monitor employee workload, manage payroll, verify employee contracts, and ensure smooth HR operations. This web-based application facilitates role-based authentication and provides a dynamic dashboard for employees, HR executives, and administrators.</p>
+<p align="left">This is a React.js-based 3x3 interactive matrix, where each box changes to green when clicked and displays its click order inside. Once all 9 boxes are clicked, an animated sequence turns them orange in the order they were clicked. The project demonstrates React state management, event handling, and animations for a dynamic user experience. Built with React.js and Tailwind CSS, this project is lightweight and easy to expand. 🚀</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">https://71-digital-sign.netlify.app/</p>
+<p align="left">https://box-chroma-website-by-shahbaz.netlify.app/</p>
 
 ###
 ## 👨‍💼 Admin Info
