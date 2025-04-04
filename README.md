@@ -21,10 +21,7 @@ https://github.com/user-attachments/assets/982d79dc-12ad-4dbc-8e9b-0199f52a8b20
 <p align="left">https://box-chroma-website-by-shahbaz.netlify.app/</p>
 
 ###
-## 👨‍💼 Admin Info
-###
-<p align="left">Admin Email: shahbaz@kamal.com</p>
-<p align="left">Admin Password: 123456Aa</p>
+
 
 
 
@@ -32,48 +29,27 @@ https://github.com/user-attachments/assets/982d79dc-12ad-4dbc-8e9b-0199f52a8b20
 
 ###
 
-1. **Responsive Design**
+1. **Interactive 3x3 Grid**
 
-   - Fully responsive layout built with Tailwind CSS, ensuring a seamless experience on mobile, tablet, and desktop devices.
+   - Click to change box colors and track the order.
 
-2. **User Authentication**
+2. **Final Click Animation**
 
-   - Secure login and registration using Firebase Authentication with Google Sign-in for quick access.
-   - Conditional navigation based on the user's login state, displaying user information or authentication options.
+   - The 9th click turns all boxes orange in sequence.
 
-3. **Role-Based Access Control**
+3. **Gradient Text Styling**
 
-   - Users can register as Employees or HRs via email/password authentication.
-   - Private routes ensure data privacy and secure access.
+   - Eye-catching orange-to-green gradient title.
 
-4. **Employee Work Record Management**
+4. **Smooth & Responsive UI**
 
-   - Employees can submit daily work tasks (task type, hours worked, date) through a form. These records are displayed in a table with options to edit or delete.
+   - Built with React.js & Tailwind CSS for a clean experience.
 
-5. **Salary Payment History**
+5. **Fully Responsive Design**
 
-   - Employees can view their salary payment history, with details like month, amount, and transaction ID. HR can add, update, and track payment status.
+   - Works seamlessly on desktops, tablets, and mobile devices.
 
-6. **HR Management Interface**
 
-   - HR can view employee data, verify employee status, and make salary payments. They can also filter work records by employee name or month/year.
-
-7. **Admin Dashboard**
-
-   - Admin can manage all employees, make employees HRs, and fire employees. Admin has full access to view employee details, approve payments, and adjust salaries.
-
-8. **Employee Details & Progress Tracking**
-
-   - HR can view employee profiles, including personal info, photo, and work records. A bar chart shows salary vs. month/year for each employee.
-
-9. **CRUD Operations with Notifications**
-
-   - All operations (add, edit, delete) are handled via forms and tables, with sweet alert/toast notifications for success or failure feedback.
-
-10. **Role-specific Route Protection**
-    - The app uses JWT tokens for secure authentication, ensuring that only users with the correct role (Employee, HR, Admin) can access their respective routes and functionalities.
-11. **Payment Gateway Integration**
-    - Admin can make salary payments to employees via a payment gateway(stripe). Payments can only be made once per month/year to avoid double payments.
 
 ###
 
@@ -85,18 +61,18 @@ https://github.com/user-attachments/assets/982d79dc-12ad-4dbc-8e9b-0199f52a8b20
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <!-- <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-     <img src="http://skillicons.dev/icons?i=express" height="40" alt="express logo"/>
-     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-    <img src="https://avatars.githubusercontent.com/u/856813?s=200&v=4" height="40" alt="stripe logo logo"  />
+  <!-- <img width="12" />
+   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  /> -->
+  <!-- <img width="12" />
+     <img src="http://skillicons.dev/icons?i=express" height="40" alt="express logo"/> -->
+     <!-- <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /> -->
+  <!-- <img width="12" />
+    <img src="https://avatars.githubusercontent.com/u/856813?s=200&v=4" height="40" alt="stripe logo logo"  /> -->
 </div>
 
 
